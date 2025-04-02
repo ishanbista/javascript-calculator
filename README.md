@@ -3,6 +3,7 @@
 A fully functional calculator** built using **HTML, CSS, and JavaScript**. This project includes a modern UI with smooth button interactions and essential calculator functionalities.
 
 ## 🚀 Live Demo
+![Calculator demo] (demo.gif)
 🔗 **[Click here to view the live demo] https://github.com/user-attachments/assets/1d6fc2b8-8446-4779-ac87-330d27147863
 ## 📸 Screenshots
 <div align="center">
