@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    color: white;
+    font-size: 2rem;
+    padding-left: 40vh;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+body {
+    background-color: #474141;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 25vw;
+    height: 90vh;
+    gap: 20px;
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    /* Subtle border */
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.1),
+        0px 10px 30px rgba(0, 0, 0, 0.8);
+    /* Outer glow effect */
+    /* width: fit-content; */
+    margin-top: 2vw;
+    margin-left: 35vw;
+    border-radius: 20px;
+
+
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+button:active {
+    transform: scale(0.95);
+}
+
+.line1 button {
+    color: #14fb14;
+    background-color: #3f3838;
+    width: 5vw;
+    height: 5vw;
+    border-radius: 35px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.line2 button {
+    color: white;
+    background-color: #3f3838;
+    width: 5vw;
+    height: 5vw;
+    border-radius: 35px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.line3 button {
+    color: white;
+    background-color: #3f3838;
+    width: 5vw;
+    height: 5vw;
+    border-radius: 35px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.line4 button {
+    color: white;
+    background-color: #3f3838;
+    width: 5vw;
+    height: 5vw;
+    border-radius: 35px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.line5 button {
+    color: white;
+    background-color: #3f3838;
+    width: 5vw;
+    height: 5vw;
+    border-radius: 35px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+#equals {
+    background-color: #FF9800;
+}
+
+#minus {
+    color: #14fb14;
+}
+
+#plus {
+    color: #14fb14;
+}
+
+#multiply {
+    color: #14fb14;
+
+}
