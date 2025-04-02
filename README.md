@@ -35,7 +35,7 @@ Follow these steps to run the project locally:
    git clone https://github.com/ishanbista/javascript-calculator
 2. **Navigate into the project folder <br>
    cd calculator
-4. Open index.html in your browser <br>
-🏆 Contributing <br>
+4. Open index.html in your browser 
+## 🏆 Contributing <br>
 Have suggestions or found a bug? Feel free to fork this repo and submit a pull request!
  
