@@ -25,6 +25,10 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**  
    ```bash
-   git clone 
-
+   git clone
+2. **Navigate into the project folder
+   cd calculator
+4. Open index.html in your browser
+🏆 Contributing
+Have suggestions or found a bug? Feel free to fork this repo and submit a pull request!
  
