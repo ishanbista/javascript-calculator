@@ -1,6 +1,6 @@
 # 🔢 Modern Calculator Web App
 
-A fully functional calculator** built using **HTML, CSS, and JavaScript**. This project includes a modern UI with smooth button interactions and essential calculator functionalities.
+A fully functional calculator built using **HTML, CSS, and JavaScript**. This project includes a modern UI with smooth button interactions and essential calculator functionalities.
 
 ## 🚀 Live Demo
 ![Calculator demo](demo.gif)
